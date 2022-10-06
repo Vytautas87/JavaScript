@@ -12,4 +12,15 @@ console.log(14 % 3);
 console.log(4 ** 5);
 console.log(+"30" + +"80");
 console.log("15" + 3 * 5);
-console.log(+"15" + 3 * 5) 
+console.log(+"15" +  "3" * "5") 
+
+
+let x = 25;
+let y = 47;
+let z = x - y;
+console.log(z);;
+
+
+
+
+

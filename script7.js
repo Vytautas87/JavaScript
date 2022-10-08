@@ -1,5 +1,5 @@
 let a = prompt("Įveskite skaiciu");
-let skaiciusA = skaicius(a );
+let skaiciusA = skaicius(a);
 console.log(skaiciusA);
 
 // Papildomų funkcijų aprašymas

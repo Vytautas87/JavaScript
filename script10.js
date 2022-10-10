@@ -1,7 +1,7 @@
 let statinisb = prompt("Įveskite stačiojo trikampio statinio ilgį");
 let istrizainec = prompt("Įveskite stačiojo trikampio įstrižainės ilgį");
 let statinisa = statinioradimas(statinisb, istrizainec);
-console.log("statinio a kvadratas " + statinisa);
+console.log("statinis a " + statinisa);
 
 // Papildomos funkcijos
 function statinioradimas(a, b) {

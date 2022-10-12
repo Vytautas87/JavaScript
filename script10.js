@@ -1,6 +1,6 @@
 let istrizainec = prompt("Įveskite stačiojo trikampio įstrižainės ilgį");
 let statinisb = prompt("Įveskite stačiojo trikampio statinio ilgį");
-let statinisa = statinioradimas(statinisb, istrizainec);
+let statinisa = statinioradimas(statinisc, istrizaineb);
 console.log("statinis a " + statinisa);
 
 // Papildomos funkcijos
